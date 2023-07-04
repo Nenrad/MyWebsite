@@ -44,6 +44,7 @@
   }
 
   .name_container {
+    border-bottom: 2px solid black;
     display: flex;
     gap: 20px;
     align-items: center;
