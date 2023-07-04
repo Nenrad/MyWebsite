@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap");
+html {
+  font-family: "fira Code";
+  margin: 0px 200px 0px 200px;
+  overflow-y: scroll;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+html,
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
