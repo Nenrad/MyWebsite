@@ -1,7 +1,7 @@
 ---
 slug: "cavendish"
 date: "2022-11-24"
-title: "The Man Who Weighed the World"
+title: "Test Blog Post here"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Libero volutpat sed cras ornare arcu. A diam maecenas sed enim ut sem. Amet venenatis urna cursus eget nunc. Purus ut faucibus pulvinar elementum integer enim neque volutpat. Eget nunc scelerisque viverra mauris in aliquam sem fringilla ut. Quis vel eros donec ac odio tempor. Nulla at volutpat diam ut venenatis tellus in metus. Libero justo laoreet sit amet cursus sit amet dictum sit. Dolor sit amet consectetur adipiscing elit ut aliquam. Id aliquet lectus proin nibh nisl. Facilisis sed odio morbi quis commodo. Sed enim ut sem viverra aliquet eget sit amet tellus. Semper quis lectus nulla at volutpat diam ut.
